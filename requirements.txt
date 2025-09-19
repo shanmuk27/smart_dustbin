@@ -1,0 +1,5 @@
+pyserial
+firebase-admin
+Flask
+Flask-Cors
+google-generativeai
